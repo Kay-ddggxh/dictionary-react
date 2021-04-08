@@ -12,7 +12,16 @@ export default function App() {
         <main>
           <Dictionary />
         </main>
-        <footer className="App-footer">Coded by Kathrin Welfare</footer>
+        <footer className="App-footer">
+          Coded by Kathrin Welfare. View{" "}
+          <a
+            href="https://github.com/Kathrin-ddggxh/dictionary-react"
+            target="_blank"
+          >
+            open-source code
+          </a>
+          .
+        </footer>
       </div>
     </div>
   );
