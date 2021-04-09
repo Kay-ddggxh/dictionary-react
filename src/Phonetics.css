@@ -1,0 +1,17 @@
+.Phonetics {
+  margin-bottom: 12px;
+}
+
+.Phonetics .btn-branding {
+  background-color: #eceff1;
+  color: #455a64;
+  padding: 4px 12px;
+  margin-right: 28px;
+  border-radius: 18px;
+  transition: all 150ms ease-in-out;
+}
+
+.Phonetics .btn-branding:hover {
+  background-color: #455a64;
+  color: #eceff1;
+}
