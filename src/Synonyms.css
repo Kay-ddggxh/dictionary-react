@@ -3,6 +3,15 @@
   padding: 0;
 }
 
+.Synonyms h5 {
+  font-size: 16px;
+  margin-bottom: 0;
+}
+
+.Synonyms ul {
+  margin-top: 4px;
+}
+
 .Synonyms li {
   display: inline-block;
   margin-right: 13px;
