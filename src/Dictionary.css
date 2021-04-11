@@ -5,7 +5,10 @@
 }
 
 .Dictionary section {
+  max-width: 900px;
   margin-bottom: 25px;
+  margin-right: auto;
+  margin-left: auto;
   padding: 26px;
   border-radius: 6px;
   background-color: white;
@@ -14,8 +17,9 @@
 .Dictionary input {
   width: 100%;
   border-radius: 6px;
-  border: 1px solid #cfd8dc;
-  padding: 5px 8px;
+  border: 3px solid #cfd8dc;
+  padding: 12px;
+  font-size: 20px;
   color: #263238;
 }
 
